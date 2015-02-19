@@ -1,0 +1,165 @@
+.navbar-collapse{
+	transition: all 0ms ease;
+}
+
+.navbar{
+	color: black;
+	background-color: #DADADA;
+	position: relative;
+}
+
+.navbar-brand{
+	color: black!important;
+}
+
+.navbar-toggle{
+	border: none;
+}
+
+body{
+	background-color: white;
+}
+
+
+.app-title{
+	margin-top: 20px;
+	width: 100%;
+	text-align: center;
+
+}
+
+.form-signin-heading{
+	text-align: center;
+	color: #999999;
+}
+
+.form-signin span{
+	display: block;
+
+}
+
+.signin-page{
+	/*background: url("http://static7.depositphotos.com/1013245/796/i/950/depositphotos_7961410-Business-money-background.jpg");*/
+}
+
+
+/*#CARD-NOTIFICATION*/
+
+
+
+div.card-notification{
+	background-color: #F2F2F2;
+	border: 1px solid #DDDDDD;
+	border-radius: 2px;
+	transition: all 300ms ease;
+	box-shadow: 1px 1px 10px -5.7px black;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 15px;
+	width: 100%;
+}
+
+div.card{
+	box-sizing: border-box;
+}
+
+h4.card-title{
+	margin: 0 20px 20px 20px;
+	display: block;
+	text-align: left;
+	float: left;
+}
+
+p.card-description{
+	margin: 20px;
+	text-align: left;
+	clear: both;
+}
+
+p.card-price{
+	font-weight: bolder;
+	float: left;
+	width: 100%;
+	font-size: 20px;
+	display: inline-block;
+}
+
+
+.notif-screen{
+	text-align: center;
+	margin: 10px;
+}
+
+button.card-btn{
+	
+}
+
+button.btn-negotiate{
+	background-color: forestgreen;
+}
+
+
+h4.card-category{
+	text-align: left;
+	margin-left: 20px;
+	font-size: 30px;
+	color: black;
+	/*border: 1px solid #DADADA;*/
+	border-radius: 10px;
+}
+
+
+section.filters{
+	text-align: center;
+}
+
+.filter-item{
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	display: inline-block;
+	background-color: #FAFAFA;
+	transition: all 300ms ease;
+	text-decoration: none;
+}
+
+.filter-item:hover{
+	text-decoration:none;
+	background-color: #555555;
+	color: white;
+}
+
+.filter-item:visited{
+	text-decoration: none;
+	color: steelblue;
+}
+
+
+.screen-title{
+	margin-bottom: 30px;
+}
+
+.btn-job{
+	float: right;
+}
+
+.competence-title{
+	font-size: 20px;
+	color: steelblue;
+}
+
+.navbar-collapse{
+	transition: all 300ms ease;
+}
+
+.navbar-collapse .navbar-nav li a{
+	color: black;
+}
+
+.navbar-collapse .navbar-nav .title a{
+	color: black;
+	font-size: 20px;
+}
+
+
+
